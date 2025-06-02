@@ -87,7 +87,7 @@ export default function Services() {
   }, []);
 
   useEffect(() => {
-    document.title = "Anuj Kelodiya - Services";
+    document.title = " Smit Jogani - Services";
   }, []);
   return (
     <div className="main bg mm text-black">

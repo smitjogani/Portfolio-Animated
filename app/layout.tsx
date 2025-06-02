@@ -3,7 +3,7 @@ import "./globals.css";
 import { ViewTransitions } from "next-view-transitions";
 
 export const metadata: Metadata = {
-  title: "Anuj Kelodiya - Visual Artist",
+  title: " AK Studio",
   description:
     "A creative video editor crafting cinematic experiences through seamless cuts, dynamic effects, and compelling storytelling.",
 };

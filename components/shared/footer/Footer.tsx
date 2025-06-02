@@ -28,17 +28,17 @@ const Footer = () => {
               +91 9399142719
             </Link>
             <Link
-              href={"mailto:anujkelodiya.work@gmail.com"}
+              href={"mailto:smitjogani00@gmail.com"}
               className="ll block hover:opacity-85 transition-all"
             >
-              anujkelodiya.work@gmail.com
+              smitjogani00@gmail.com
             </Link>
           </div>
           <div className="flex flex-col gap-1 max-lg:w-1/2 max-lg:items-end max-lg:pb-[5vw] max-sm:w-full max-sm:items-start max-sm:pb-[0vw]">
             <h3 className="bb text-white/65">Follow Me</h3>
             <Link
               target="_blank"
-              href={"https://www.instagram.com/anujkelodiya"}
+              href={"https://www.instagram.com/smit_jogani__"}
               className="ll group flex items-center gap-1"
             >
               <i className="ri-instagram-line text-2xl  transition-all group-hover:text-red-500 opacity-50 mr-1"></i>{" "}
@@ -46,19 +46,11 @@ const Footer = () => {
             </Link>
             <Link
               target="_blank"
-              href={"https://www.instagram.com/anujkelodiya"}
+              href={"https://www.linkedin.com/in/smitjogani/"}
               className="ll group flex items-center gap-1"
             >
               <i className="ri-linkedin-box-fill text-2xl  transition-all group-hover:text-blue-500 opacity-50 mr-1"></i>{" "}
               <span>linkedin</span>
-            </Link>
-            <Link
-              target="_blank"
-              href={"https://x.com/AnujKelodiya?t=sMs3xKik6FlByvAHkE8CHQ&s=09"}
-              className="ll flex items-center gap-1"
-            >
-              <i className="ri-twitter-x-fill text-2xl  transition-all opacity-50 mr-1"></i>{" "}
-              <span>X</span>
             </Link>
           </div>
           <div className="flex flex-col gap-1 w-[22%] max-lg:w-1/2 max-sm:w-full">
@@ -103,7 +95,7 @@ const Footer = () => {
         <div className="pb-3 flex flex-col gap-2 max-sm:gap-4 leading-0 pt-[2vw]">
           <div className="footer-text text-center">
             <h2 className="text-[14vw] max-lg:text-[13vw] mix-blend-difference whitespace-nowrap tracking-wide textt font-extrabold leading-none">
-              Anuj Kelodiya
+               Smit Jogani
             </h2>
           </div>
           <div className="text-center ll max-lg:text-sm max-sm:text-sm relative z-[1]">

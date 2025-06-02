@@ -22,7 +22,7 @@ export default function Contact() {
     });
   }, []);
   useEffect(() => {
-      document.title = "Anuj Kelodiya - Contact";
+      document.title = " Smit Jogani - Contact";
     }, []);
   return (
     <div className="main bg mm text-black">

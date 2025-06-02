@@ -25,7 +25,7 @@ export default function Work() {
   });
 
   useEffect(() => {
-    document.title = "Anuj Kelodiya - Work";
+    document.title = " Smit Jogani - Work";
   }, []);
 
   return (

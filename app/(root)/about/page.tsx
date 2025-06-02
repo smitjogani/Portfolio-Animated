@@ -92,7 +92,7 @@ export default function About() {
   }, []);
 
   useEffect(() => {
-    document.title = "Anuj Kelodiya - About";
+    document.title = " Smit Jogani - About";
   }, []);
 
   return (
@@ -117,7 +117,7 @@ export default function About() {
           </h2>
         </div>
         <div className="h-screen w-full flex justify-center items-center px-4">
-          <span className="text-lg bb">{`Hi, I’m Anuj`}</span>
+          <span className="text-lg bb">{`Hi, I’m S`}</span>
         </div>
 
         <div className="creating h-screen w-full text-center px-4">
