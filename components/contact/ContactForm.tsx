@@ -40,19 +40,6 @@ const ContactForm = () => {
       formData.append("email", values.email);
       formData.append("message", values.message);
       formData.append("phone", values.phone);
-
-      // const object = Object.fromEntries(formData);
-      // const json = JSON.stringify(object);
-
-      const myTimeout = setTimeout(() => {
-        if (myTimeout) clearTimeout(myTimeout);
-        setSubmitMessage("");
-      }, 5000);
-    } catch (error) {
-      console.log(error);
-    } finally {
-      setIsSubmitting(false);
-    }
   }
 
   return (
