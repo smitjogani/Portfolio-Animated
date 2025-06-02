@@ -41,8 +41,8 @@ const ContactForm = () => {
       formData.append("message", values.message);
       formData.append("phone", values.phone);
 
-      const object = Object.fromEntries(formData);
-      const json = JSON.stringify(object);
+      // const object = Object.fromEntries(formData);
+      // const json = JSON.stringify(object);
 
       const myTimeout = setTimeout(() => {
         if (myTimeout) clearTimeout(myTimeout);
